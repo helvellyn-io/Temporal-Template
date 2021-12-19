@@ -2,8 +2,6 @@
 
 This is a simple project for demonstrating Temporal with the Go SDK.
 
-The full 20 minute guide is here: https://docs.temporal.io/docs/go/run-your-first-app-tutorial
-
 ## Basic instructions
 
 ### Step 0: Temporal Server
